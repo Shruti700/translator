@@ -1,1 +1,1 @@
-Add your idea files to this directory. Please don't rename this directory.
+The idea is to design a web app translator build via Azure's API and Services. The Translator Application is for text translation from any language to desired one. There would be one text box where the user would input text and choose a language desired. The translator will be redirected to the result page where original text, the text converted in desired language and the language code will be printed for future references.
