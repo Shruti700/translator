@@ -1,2 +1,2 @@
-# hackathon-submission-template
-Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
+# *The translator*
+The translator is an simple interfaced website which as the name suggests, could translate any word/ sentence or even a whole paragraph from any language to desired one chosen from the list. The web application is build with django/ python and basic HTML scripts. The prominent Application Program Interface is one of Microsoft Azure's Cognitive services, text translator precisely. This web app is deployed on Azure's App Services as well, this not only takes care of the web application's availability but also reliablity. It is devise tech-based solution to make education accessible to rural women. The only prerequisite is an internet connected device and curiosity to learn.
